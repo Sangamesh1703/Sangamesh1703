@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Sangamesh1703
+- 🌱 I’m currently learning Data science 
